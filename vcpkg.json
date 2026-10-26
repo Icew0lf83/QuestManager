@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "mein-ae-plugin",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "fmt",
+    "spdlog",
+    "rapidcsv",
+    "xbyak",
+    "directxtk",
+    "directxmath"
+  ]
+}
